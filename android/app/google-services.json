@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "420167176415",
+    "project_id": "u-chat-me-6febd",
+    "storage_bucket": "u-chat-me-6febd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420167176415:android:ed7cc8a78ed7dffcbf596a",
+        "android_client_info": {
+          "package_name": "com.example.u_chat_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420167176415-7r1pultist8ufcv7m149alg0vq9a3235.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.u_chat_me",
+            "certificate_hash": "ebe5feae32bc16fc86f2940a366fe156860e6bf1"
+          }
+        },
+        {
+          "client_id": "420167176415-14u3k742t7de4122f4bphb8c3j17gjha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJZJloYznqdPI1CeC7kFdW3kSnUrcJEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420167176415-14u3k742t7de4122f4bphb8c3j17gjha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420167176415-j8ua347h7cbngfuk7h8qcj9mg0eqb0vb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uChatMe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
